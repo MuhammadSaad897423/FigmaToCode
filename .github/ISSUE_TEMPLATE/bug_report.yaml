@@ -56,3 +56,4 @@ body:
       placeholder: "Drag and drop images or videos here"
     validations:
       required: false
+      placeholder: "Drag and drop images or videos here fix"
